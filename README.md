@@ -4,7 +4,7 @@ A full end-to-end Data Science project: EDA → ML modelling → Streamlit dashb
 
 Built with Python, Scikit-learn, and Streamlit.
 
-Live Demo - https://customer-churn-project-rbhwewvutdvc5gdrcsvxn5.streamlit.app/
+Live Demo - https://customer-churn-projects.streamlit.app/
 
 ---
 

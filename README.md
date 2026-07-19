@@ -4,6 +4,8 @@ A full end-to-end Data Science project: EDA → ML modelling → Streamlit dashb
 
 Built with Python, Scikit-learn, and Streamlit.
 
+Live Demo - https://customer-churn-project-rbhwewvutdvc5gdrcsvxn5.streamlit.app/
+
 ---
 
 ## 🗂️ Project Structure
@@ -83,11 +85,6 @@ Open `http://localhost:8501` in your browser.
 - **Fiber optic** internet users churn more than DSL users
 - Customers with **low tenure (< 12 months)** are the highest risk group
 - **Electronic check** payment method has the highest churn rate
-
----
-
-## 📁 Resume Description
-> *Built a full-stack ML project predicting telecom customer churn using Python (Scikit-learn, Pandas), achieving 82% accuracy with Random Forest. Deployed an interactive Streamlit dashboard featuring EDA visualisations, model comparison metrics, and a live single-customer churn predictor.*
 
 ---
 
